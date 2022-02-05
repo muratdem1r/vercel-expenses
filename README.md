@@ -1,2 +1,2 @@
 # vercel-expenses
-Learning React and Publish in Vercel
+Learning React and Publish to Vercel
